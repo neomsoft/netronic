@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Netronic</string>
+
+    <string name="fragment_splash_label">Splash</string>
+
+    <string name="fragment_users_label">Users</string>
+    <string name="fragment_users_error_msg">Error loading data</string>
+
+    <string name="fragment_user_details_label">Details</string>
+
+    <string name="fragment_users_history_label">History</string>
+    <string name="fragment_users_history_msg_empty">The history is empty</string>
+</resources>
